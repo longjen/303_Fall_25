@@ -1,3 +1,5 @@
+#Aishwarya Pandian and Jennifer Long Pair Exercise 4
+
 import wikipedia
 
 result = wikipedia.search("generative artificial intelligence")
